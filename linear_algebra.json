@@ -1,0 +1,188 @@
+{
+  "lin_alg.addition": {
+    "title": "Addition",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.addition-in-fn": {
+    "title": "AdditionInFn",
+    "aliases": null,
+    "links": null,
+    "source": "[[Axler_LADR_Chapter1]]"
+  },
+  "lin_alg.additive-inverse-in-fn": {
+    "title": "AdditiveInverseInFn",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.complex-arithmetic-properties": {
+    "title": "ComplexArithmeticProperties",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.complex-number": {
+    "title": "ComplexNumber",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.degree-of-polynomial": {
+    "title": "DegreeOfPolynomial",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.direct-sum": {
+    "title": "DirectSum",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.direct-sum-criterion": {
+    "title": "DirectSumCriterion",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.field": {
+    "title": "Field",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.finite-dimensional-subspace": {
+    "title": "FiniteDimensionalSubspace",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.finite-dimensional-vector-space": {
+    "title": "FiniteDimensionalVectorSpace",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.fn": {
+    "title": "Fn",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.fs": {
+    "title": "FS",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.infinite-dimensional-vector-space": {
+    "title": "InfiniteDimensionalVectorSpace",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.la-front-matter-todo": {
+    "title": "LA-front-matter-todo",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.linear-combination": {
+    "title": "LinearCombination",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.linear-dependence": {
+    "title": "LinearDependence",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.linear-dependence-lemma": {
+    "title": "LinearDependenceLemma",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.linear-independence": {
+    "title": "LinearIndependence",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.linearly-independent-vs-spanning": {
+    "title": "LinearlyIndependentVsSpanning",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.list": {
+    "title": "List",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.pm-fnotation": {
+    "title": "PmFNotation",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.polynomial": {
+    "title": "Polynomial",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.power-laws-in-afield": {
+    "title": "PowerLawsInAField",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.real-vector-space": {
+    "title": "RealVectorSpace",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.scalar-multiplication-in-fn": {
+    "title": "ScalarMultiplicationInFn",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.span": {
+    "title": "Span",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.spanning-set": {
+    "title": "SpanningSet",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.subspace": {
+    "title": "Subspace",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.sum-of-subpaces": {
+    "title": "SumOfSubpaces",
+    "aliases": [],
+    "links": [],
+    "source": null
+  },
+  "lin_alg.vector-space": {
+    "title": "VectorSpace",
+    "aliases": [],
+    "links": [],
+    "source": null
+  }
+}
