@@ -1,8 +1,8 @@
 {
   "lin_alg.vector-space": {
     "title": "VectorSpace",
-    "aliases": null,
-    "links": null,
+    "aliases": [],
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.fs": {
@@ -10,7 +10,7 @@
     "aliases": [
       "Function Vector Space"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.complex-number": {
@@ -20,7 +20,7 @@
       "Complex Numbers",
       "complex-numbers"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.additive-inverse-in-fn": {
@@ -28,13 +28,13 @@
     "aliases": [
       "Negative Vector"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.sum-of-subpaces": {
     "title": "SumOfSubpaces",
-    "aliases": null,
-    "links": null,
+    "aliases": [],
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.la-front-matter-todo": {
@@ -49,7 +49,7 @@
       "F^n",
       "Coordinate Space"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.complex-arithmetic-properties": {
@@ -57,13 +57,13 @@
     "aliases": [
       "Properties of Complex Arithmetic"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.power-laws-in-afield": {
     "title": "PowerLawsInAField",
-    "aliases": null,
-    "links": null,
+    "aliases": [],
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.spanning-set": {
@@ -71,7 +71,7 @@
     "aliases": [
       "SpanningSet"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.linearly-independent-vs-spanning": {
@@ -79,7 +79,7 @@
     "aliases": [
       "LinearlyIndependentVsSpanning"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.infinite-dimensional-vector-space": {
@@ -87,7 +87,7 @@
     "aliases": [
       "InfiniteDimensionalVectorSpace"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.span": {
@@ -95,7 +95,7 @@
     "aliases": [
       "Span"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.polynomial": {
@@ -103,7 +103,7 @@
     "aliases": [
       "Polynomial"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.linear-independence": {
@@ -111,7 +111,7 @@
     "aliases": [
       "LinearIndependence"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.finite-dimensional-vector-space": {
@@ -119,7 +119,7 @@
     "aliases": [
       "FiniteDimensionalVectorSpace"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.linear-dependence-lemma": {
@@ -127,7 +127,7 @@
     "aliases": [
       "LinearDependenceLemma"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.direct-sum": {
@@ -135,7 +135,7 @@
     "aliases": [
       "\u2295"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.list": {
@@ -143,13 +143,13 @@
     "aliases": [
       "Finite Sequence"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.scalar-multiplication-in-fn": {
     "title": "ScalarMultiplicationInFn",
-    "aliases": null,
-    "links": null,
+    "aliases": [],
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.finite-dimensional-subspace": {
@@ -157,7 +157,7 @@
     "aliases": [
       "FiniteDimensionalSubspace"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.real-vector-space": {
@@ -165,7 +165,7 @@
     "aliases": [
       "Complex Vector Space"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.linear-combination": {
@@ -173,7 +173,7 @@
     "aliases": [
       "LinearCombination"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.field": {
@@ -182,7 +182,7 @@
       "Field Definition",
       "Scalar Field"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.linear-dependence": {
@@ -190,7 +190,7 @@
     "aliases": [
       "LinearDependence"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.degree-of-polynomial": {
@@ -198,25 +198,25 @@
     "aliases": [
       "DegreeOfPolynomial"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.direct-sum-criterion": {
     "title": "DirectSumCriterion",
-    "aliases": null,
-    "links": null,
+    "aliases": [],
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.addition-in-fn": {
     "title": "AdditionInFn",
-    "aliases": null,
-    "links": null,
+    "aliases": [],
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.addition": {
     "title": "Addition",
-    "aliases": null,
-    "links": null,
+    "aliases": [],
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   },
   "lin_alg.pm-fnotation": {
@@ -224,7 +224,7 @@
     "aliases": [
       "PmFNotation"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter2]]"
   },
   "lin_alg.subspace": {
@@ -232,7 +232,7 @@
     "aliases": [
       "Sub-space"
     ],
-    "links": null,
+    "links": [],
     "source": "[[Axler_LADR_Chapter1]]"
   }
 }
